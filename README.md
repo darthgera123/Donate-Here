@@ -7,11 +7,12 @@ During the relief one of the biggest challenge is the allocation of resources ef
 Taking cue from the Kerala Relief operation, what at the moment we need is a centralized mode where multiple agencies and individuals can communicate while leading the relief operation.
 
 ## Whats new - 
-even though multiple organizations open up their own donation portal, this is not a simple donation portal. What we want is the effective allocation and management of the relief resources. With this app, what we are trying to predict is how to minimize losses during disasters. The key here is effective organization. Our users will not be the people in distress but rather the managers of these people. Time management and resource allocation are 2 key points here and this app would help various organizations in doing that.
+Even though multiple organizations open up their own donation portal, this is not a simple donation portal. What we want is the effective allocation and management of the relief resources. The key here is effective organization. Our users will not be the people in distress but rather the managers of these people. Time management and resource allocation are 2 key points here and this app would help various organizations in doing that. However, the people in distress will be able to view nearest First Aid stations and Releif Centres.
 
 ## Features -
 
-The first feature is identifying the areas. The news currently can give us a very broad idea about locations in distress, say Mumbai or Kerala in distress. however, all people may not need help or some sections would require more help than the rest. In order to tackle that, our app will use facebook's mark myself safe feature which can give us an idea about locations which are relatively safe. These locations can be used as relief camps as well.
+- Identifying the areas. 
+  The news currently can give us a very broad idea about locations in distress, say Mumbai or Kerala in distress. however, all people may not need help or some sections would require more help than the rest. In order to tackle that, our app will use facebook's mark myself safe feature which can give us an idea about locations which are relatively safe. These locations can be used as relief camps as well.
 
 Secondly, a lot of people want to help out but there is no means to do it. During such times we can have a centralized portal where all NGOS can add up their entire donations aand this can be effectively allocated to the locations based in the danger level and number of people present.This will save a lot of time and will not involve wastage of donations.
 
