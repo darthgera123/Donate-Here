@@ -19,6 +19,6 @@ Even though multiple organizations open up their own donation portal, this is no
   The app will also have a channel through which multiple NGOs can communicate and collaborate along with people like you and me so that we dont miss out just because we didnt have the means to help out.
 
 ## Internet Connectivity
-Our Initial idea/plan will be relying on good internet connectivity, however in later stages its high priority that major broadcasts such can be relayed either through radio or other means
+Our Initial idea/plan will be relying on good internet connectivity, however in later stages its high priority that major broadcasts such can be relayed either through radio or other means. Also we are looking at the feasibility of deploying it on a p2p level so that important information can reach people even without cellular connections
 
 The Kerala website was a stop gap solution which streamlined the process and we believe it to be a corner stone as it showed how effective communication goes a long way in mitigating disaster.
